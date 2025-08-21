@@ -19,3 +19,4 @@ Researcher specializing in urban sustainability, spatial analysis, and behaviora
 * [Google Scholar](https://scholar.google.ro/citations?user=jBpIqjgAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/cristian-tosa/)
 * [ResearchGate](https://www.researchgate.net/profile/Cristian-Tosa?ev=hdr_xprf)
+  
