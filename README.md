@@ -42,9 +42,9 @@ Below are selected publications that highlight my research, along with links to 
 #### 4. Sustainable Production and Consumption Patterns from Historical Twitter Data
 > This research performs NLP on historical Twitter data in order to assess sustainable patterns of consumption and production.
 
-📝 **Publication:** *Sustainability: Science, Practice and Policy* (2025) - [DOI Link](https://www.tandfonline.com/doi/full/10.1080/15487733.2024.2440952)
-📝 **Data article:** *Data in Brief* (2023) - [DOI Link](https://www.sciencedirect.com/science/article/pii/S2352340923005279)
-💻 **Repository:** [Link to OSF](https://osf.io/npw7s/)
+📝 **Publication:** *Sustainability: Science, Practice and Policy* (2025) - [DOI Link](https://www.tandfonline.com/doi/full/10.1080/15487733.2024.2440952)  
+📝 **Data article:** *Data in Brief* (2023) - [DOI Link](https://www.sciencedirect.com/science/article/pii/S2352340923005279)  
+💻 **Repository:** [Link to OSF](https://osf.io/npw7s/)  
 
 ---
 
