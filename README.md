@@ -33,11 +33,12 @@ Below are selected publications that highlight my research, along with links to 
 📝 **Publication:** *International Journal of Sustainable Energy* (2024) - [DOI Link](https://link.springer.com/article/10.1007/s12053-025-10309-1)  
 💻 **Repository:** [Link to Data in Brief Journal](https://www.sciencedirect.com/science/article/pii/S2352340923008971)
 
-#### 3. Residential Preferences and Migration within Metropolitan areasA
+#### 3. Residential Preferences and Migration within Metropolitan areas
 > This research analyzes historical residential location within the metropolitan area of Bucharest, Romania.
 
 📝 **Publication:** *Romanian Journal of Population Studies* (2019) - [DOI Link](https://www.proquest.com/docview/2377324245/fulltextPDF/DDFA0586A17B47EDPQ/1?accountid=136945&sourcetype=Scholarly%20Journals)  
 💻 **Repository:** [Link to Streamlit](https://residential-history-bucharest.streamlit.app/)
+
 ---
 
 ### Professional Links
