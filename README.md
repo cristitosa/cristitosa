@@ -51,6 +51,7 @@ Below are selected publications that highlight my research, along with links to 
 
 ### Professional Links
 
+* [Nasjonalt vitenarkiv (NVA)](https://nva.sikt.no/research-profile/1390147)
 * [University of Stavanger Profile](https://www.uis.no/nb/profile/cristian-tosa)
 * [Google Scholar](https://scholar.google.ro/citations?user=jBpIqjgAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/cristian-tosa/)
