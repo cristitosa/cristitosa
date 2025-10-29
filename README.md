@@ -2,16 +2,20 @@
 
 **Socio-Technical System Analysis Researcher  | PhD in Civil/Environmental Engineering**
 
-Researcher specializing in urban sustainability, spatial analysis, and behavioral science. My work focuses on applying quantitative methods (Python, GIS) and co-creative approaches to address complex socio-technical challenges.
+Welcome to my research portfolio. I am a socio-technical researcher (PhD Civil Eng) focused on designing sustainable urban transitions. My work integrates data science (Python, GIS), behavioral analysis, and policy/systems design to understand and shape urban dynamics, focusing on mobility, resource use, and community engagement.    
 
 ---
 
-### Core Competencies
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0000-0003-0986-4131)&nbsp;&nbsp;&nbsp;&nbsp;[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.ro/citations?user=jBpIqjgAAAAJ&hl=en)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/cristian-tosa/)&nbsp;&nbsp;&nbsp;&nbsp;[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen)](https://www.researchgate.net/profile/Cristian-Tosa)&nbsp;&nbsp;&nbsp;&nbsp;[![NVA](https://img.shields.io/badge/NVA-Profile-blue)](https://nva.sikt.no/research-profile/1390147)&nbsp;&nbsp;&nbsp;&nbsp;[![UiS](https://img.shields.io/badge/UiS-Profile-blue)](https://www.uis.no/nb/profile/cristian-tosa)
 
-* **Data Analysis & Statistics:** Python (Pandas, GeoPandas), R, JASP
-* **Spatial Analysis:** QGIS, ArcGIS, Spatial Statistics
-* **Machine Learning:** Natural Language Processing (NLP)
-* **Citizen Science & Engagement:** Survey Design (RP/SP, Life-course), Community-led Assessments, Digital Engagement Platforms
+---
+
+### 🧠 Core Competencies
+* **Socio-Technical Systems Analysis:** Systems thinking, modeling complex urban interactions, sustainability transitions assessment.
+* **Urban & Mobility Analysis:** GIS (QGIS, ArcGIS), spatial statistics, transport modeling, accessibility analysis, land use dynamics.
+* **Data Science & Quantitative Methods:** Python (Pandas, GeoPandas, Scikit-learn), R, statistical modeling (incl. discrete choice), machine learning (NLP).
+* **Behavioral Science & Community Engagement:** Behavioral analysis, choice modeling (RP/SP), survey design (incl. life-course), stakeholder collaboration, participatory methods.
+* **Policy & Design Frameworks:** Policy analysis, governance design, incentive system design (e.g., for pro-environmental behavior), circular economy models.
 
 ---
 
@@ -50,11 +54,4 @@ Below are selected publications that highlight my research, along with links to 
 
 ---
 
-### Professional Links
-
-* [Nasjonalt vitenarkiv (NVA)](https://nva.sikt.no/research-profile/1390147)
-* [University of Stavanger Profile](https://www.uis.no/nb/profile/cristian-tosa)
-* [Google Scholar](https://scholar.google.ro/citations?user=jBpIqjgAAAAJ&hl=en)
-* [LinkedIn](https://www.linkedin.com/in/cristian-tosa/)
-* [ResearchGate](https://www.researchgate.net/profile/Cristian-Tosa?ev=hdr_xprf)
   
