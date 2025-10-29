@@ -36,7 +36,7 @@ Below are selected publications that highlight my research, along with links to 
 #### 3. Residential Preferences and Migration within Metropolitan areas
 > This research analyzes historical residential location within the metropolitan area of Bucharest, Romania.
 
-📝 **Publication:** *European Planning Studies* (2025) - [DOI Link](https://www.tandfonline.com/doi/full/10.1080/09654313.2025.2571440)
+📝 **Publication:** *European Planning Studies* (2025) - [DOI Link](https://www.tandfonline.com/doi/full/10.1080/09654313.2025.2571440)  
 📝 **Publication:** *Romanian Journal of Population Studies* (2019) - [DOI Link](https://www.proquest.com/docview/2377324245/fulltextPDF/DDFA0586A17B47EDPQ/1?accountid=136945&sourcetype=Scholarly%20Journals)  
 💻 **Interactive Demo:** [Link to Streamlit](https://residential-history-bucharest.streamlit.app/)  
 💻 **Repository:** [Link to GitHub](https://github.com/cristitosa/Residential-history-Bucharest)
