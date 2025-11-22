@@ -52,6 +52,29 @@ Below are selected publications that highlight my research, along with links to 
 📝 **Data article:** *Data in Brief* (2023) - [Link to Data in Brief Journal](https://www.sciencedirect.com/science/article/pii/S2352340923005279)  
 💻 **Repository:** [Link to OSF](https://osf.io/npw7s/)  
 
+#### 5. Norwegian Urban Morphology & Taxonomy (Open-Source Pipeline)
+> A fully reproducible geospatial pipeline for classifying Norwegian urban fabrics using OSM, morphometrics (`momepy`), GIS, and machine-learning clustering.  
+> Includes Google Colab support, modular scripts, and exportable GeoJSON datasets.
+
+💻 **Repository:**  
+👉 https://github.com/cristitosa/norway_urban_taxonomy
+
+📘 **Features:**  
+- Automated OSM building + street data extraction  
+- Morphometric computation (coverage, elongation, shape complexity, fractal dimension)  
+- Voronoi morphological tessellation  
+- K-means clustering into Morphotopes  
+- Visualization of urban structure + statistical plots  
+- Full Google Colab notebook for easy reproduction  
+
+📂 **Folder Structure Highlights:**  
+- `data/` – Raw & processed GeoJSON  
+- `scripts/` – Modular Python pipeline  
+- `notebooks/` – Colab-ready notebook (`urban_taxonomy_colab.ipynb`)  
+- `figures/` – Visualizations and maps  
+
+🗺️ **Use Cases:**   
+- Urban planning, morphology research, transport analysis, urban sustainability modeling, automated characterization of built form.
 ---
 
   
