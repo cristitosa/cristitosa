@@ -67,11 +67,18 @@ Below are selected publications that highlight my research, along with links to 
 - Visualization of urban structure + statistical plots  
 - Full Google Colab notebook for easy reproduction  
 
-📂 **Folder Structure Highlights:**  
-- `data/` – Raw & processed GeoJSON  
-- `scripts/` – Modular Python pipeline  
-- `notebooks/` – Colab-ready notebook (`urban_taxonomy_colab.ipynb`)  
-- `figures/` – Visualizations and maps  
+ #### 6. The 15-Minute City Validator: Linking Urban Form to Transport Access
+
+This project quantifies the relationship between urban morphology (form) and public transport accessibility (function). Using Stavanger as a case study, it employs graph theory and network analysis to calculate walking times to transit, empirically testing whether dense urban fabrics offer better service coverage than suburban morphotopes.
+
+**💻 Repository:** [Link to GitHub](https://github.com/cristitosa/15_min_Stavanger_analysis))
+
+**📘 Features:**
+* **Network Analysis:** Multi-source Dijkstra routing using `NetworkX` and `OSMnx` to calculate catchment areas.
+* **Service Gap Quantification:** Statistical measurement of "stranded" buildings (walking time > 10 min) across different urban types.
+* **Morphological Integration:** Correlates transport efficiency with specific urban morphotopes (e.g., Coherent Dense vs. Incoherent Sparse).
+* **Visualization:** Static academic maps and statistical reporting (Service Gap Bar Charts).
+
 
 🗺️ **Use Cases:**   
 - Urban planning, morphology research, transport analysis, urban sustainability modeling, automated characterization of built form.
